@@ -5,7 +5,6 @@ repo: Service-Status-Check # The name of this repository
 sites:
   - name: Avangenio
     url: https://avangenio.com
-  - name: Wikipedia
   - name: Correo
     url: correo.avangenio.com
     port: 25
