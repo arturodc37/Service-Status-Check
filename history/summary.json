@@ -22,18 +22,20 @@
     "url": "https://cujae.edu.cu",
     "icon": "https://icons.duckduckgo.com/ip3/cujae.edu.cu.ico",
     "slug": "cujae",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 1213,
-    "timeWeek": 1056,
-    "timeMonth": 1056,
-    "timeYear": 1056,
-    "dailyMinutesDown": {}
+    "time": 928,
+    "timeDay": 878,
+    "timeWeek": 928,
+    "timeMonth": 928,
+    "timeYear": 928,
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   },
   {
     "name": "Correo",
