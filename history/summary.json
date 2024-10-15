@@ -4,19 +4,19 @@
     "url": "https://avangenio.com",
     "icon": "https://icons.duckduckgo.com/ip3/avangenio.com.ico",
     "slug": "avangenio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1801,
-    "timeDay": 2310,
-    "timeWeek": 2088,
-    "timeMonth": 1834,
+    "timeDay": 2057,
+    "timeWeek": 2052,
+    "timeMonth": 1833,
     "timeYear": 1801,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-15": 16
     }
   },
   {
