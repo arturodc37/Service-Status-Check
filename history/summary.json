@@ -37,18 +37,19 @@
     "url": "https://cujae.edu.cu",
     "icon": "https://icons.duckduckgo.com/ip3/cujae.edu.cu.ico",
     "slug": "cujae",
-    "status": "up",
-    "uptime": "93.01%",
+    "status": "down",
+    "uptime": "93.02%",
     "uptimeDay": "98.30%",
     "uptimeWeek": "97.41%",
     "uptimeMonth": "83.54%",
-    "uptimeYear": "93.01%",
+    "uptimeYear": "93.02%",
     "time": 973,
-    "timeDay": 987,
+    "timeDay": 957,
     "timeWeek": 878,
-    "timeMonth": 934,
+    "timeMonth": 933,
     "timeYear": 973,
     "dailyMinutesDown": {
+      "2025-06-18": 0,
       "2025-06-17": 24,
       "2025-06-16": 27,
       "2025-06-15": 29,
@@ -124,8 +125,7 @@
       "2024-12-04": 553,
       "2024-11-30": 332,
       "2024-11-29": 298,
-      "2024-11-28": 309,
-      "2024-11-27": 23
+      "2024-11-28": 309
     }
   },
   {
