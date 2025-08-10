@@ -40,16 +40,16 @@
     "url": "https://cujae.edu.cu",
     "icon": "https://icons.duckduckgo.com/ip3/cujae.edu.cu.ico",
     "slug": "cujae",
-    "status": "up",
+    "status": "down",
     "uptime": "96.31%",
-    "uptimeDay": "91.57%",
+    "uptimeDay": "93.08%",
     "uptimeWeek": "92.42%",
     "uptimeMonth": "97.22%",
     "uptimeYear": "96.31%",
     "time": 1021,
-    "timeDay": 1846,
-    "timeWeek": 1221,
-    "timeMonth": 1240,
+    "timeDay": 1363,
+    "timeWeek": 1211,
+    "timeMonth": 1235,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2025-08-10": 35,
@@ -129,8 +129,7 @@
       "2025-02-18": 938,
       "2025-02-17": 268,
       "2025-02-12": 28,
-      "2025-02-07": 29,
-      "2025-02-05": 23
+      "2025-02-07": 29
     }
   },
   {
