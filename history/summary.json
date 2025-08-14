@@ -6,7 +6,7 @@
     "slug": "avangenio",
     "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "82.17%",
+    "uptimeDay": "89.56%",
     "uptimeWeek": "94.06%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "98.27%",
@@ -41,17 +41,17 @@
     "url": "https://cujae.edu.cu",
     "icon": "https://icons.duckduckgo.com/ip3/cujae.edu.cu.ico",
     "slug": "cujae",
-    "status": "up",
+    "status": "down",
     "uptime": "96.52%",
-    "uptimeDay": "87.24%",
+    "uptimeDay": "87.23%",
     "uptimeWeek": "88.61%",
     "uptimeMonth": "95.78%",
     "uptimeYear": "96.52%",
-    "time": 1013,
-    "timeDay": 815,
-    "timeWeek": 1134,
-    "timeMonth": 1148,
-    "timeYear": 1013,
+    "time": 1012,
+    "timeDay": 774,
+    "timeWeek": 1123,
+    "timeMonth": 1143,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-08-14": 161,
       "2025-08-13": 22,
@@ -126,8 +126,7 @@
       "2025-03-15": 302,
       "2025-03-14": 22,
       "2025-03-12": 17,
-      "2025-03-05": 44,
-      "2025-03-03": 18
+      "2025-03-05": 44
     }
   },
   {
