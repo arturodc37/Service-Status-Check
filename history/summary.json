@@ -4,7 +4,7 @@
     "url": "https://avangenio.com",
     "icon": "https://icons.duckduckgo.com/ip3/avangenio.com.ico",
     "slug": "avangenio",
-    "status": "up",
+    "status": "down",
     "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.45%",
@@ -16,6 +16,7 @@
     "timeMonth": 1777,
     "timeYear": 1119,
     "dailyMinutesDown": {
+      "2025-08-19": 0,
       "2025-08-13": 257,
       "2025-08-08": 342,
       "2025-07-29": 36,
